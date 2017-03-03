@@ -51,6 +51,7 @@ nav {
 	border-radius: 0px;
 	background: #cff9ea;
 	transition: .3s all;
+	border: 1px solid #888;
 }
 nav a {
 	display: block;
@@ -70,4 +71,5 @@ nav a:last-child {border-radius: 0 0 10px 0;}
 nav:hover {
 	margin-left: 0px;
 	border-radius: 0 10px 10px 0;
+	border: none;
 }
