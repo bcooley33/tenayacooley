@@ -46,8 +46,9 @@ header h1 {
 	left: 200px;
 }
 nav {
-	margin-left: -145px;
+	margin-left: -135px;
 	width: 150px;
+	border-radius: 0px;
 	background: #0f0;
 	transition: 0.3s all;
 }
@@ -59,4 +60,5 @@ nav a {
 
 nav:hover {
 	margin-left: 0px;
+	border-radius: 0 10px 10px 0;
 }
