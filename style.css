@@ -46,9 +46,14 @@ header h1 {
 	left: 200px;
 }
 nav {
-	margin-left: -95px;
-	width: 100px;
+	margin-left: -145px;
+	width: 150px;
 	background: #0f0;
+	transition: 0.3s all;
+}
+nav a {
+	display: block;
+	line-height: 45px;
 }
 
 nav:hover {
