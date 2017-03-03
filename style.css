@@ -2,10 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
 body {
-	background: #efe397;
-	background: -moz-linear-gradient(top, #efe397 0%, #fefcea 100%);
-	background: -webkit-linear-gradient(top, #efe397 0%,#fefcea 100%);
-	background: linear-gradient(to bottom, #efe397 0%,#fefcea 100%);
+	background:#FDF5E6;
 }
 
 a {
@@ -14,7 +11,7 @@ a {
 
 #sidebar {
 	width:400px;
-	background:#FDF5E6;
+	background: #ADD8E6;
 	position: fixed;
 	top:0;
 	left: 0;
