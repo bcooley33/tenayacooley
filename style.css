@@ -32,9 +32,9 @@ header h1 {
 #hexagons img {
 	width: 400px;
 	height: 400px;
-	clip-path: polygon(200px 0px, 24px 96px, 24px 304px, 200px 400px, 375px 152px, 375px 96px);
-	-webkit-clip-path: polygon(200px 0px, 24px 96px, 24px 304px, 200px 400px, 375px 152px, 375px 96px);
-	-moz-clip-path: polygon(200px 0px, 24px 96px, 24px 304px, 200px 400px, 375px 152px, 375px 96px);
+	clip-path: polygon(200px 0px, 24px 96px, 24px 304px, 200px 400px, 375px 304px, 375px 96px);
+	-webkit-clip-path: polygon(200px 0px, 24px 96px, 24px 304px, 200px 400px, 375px 304px, 375px 96px);
+	-moz-clip-path: polygon(200px 0px, 24px 96px, 24px 304px, 200px 400px, 375px 304px, 375px 96px);
 	margin-top: 24px;
 	position: relative;
 }
