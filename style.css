@@ -45,3 +45,12 @@ header h1 {
 #hexagons .altrow img {
 	left: 200px;
 }
+nav {
+	margin-left: -95px;
+	width: 100px;
+	background: #0f0;
+}
+
+nav:hover {
+	margin-left: 0px;
+}
