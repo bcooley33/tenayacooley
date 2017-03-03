@@ -11,12 +11,12 @@ a {
 
 #sidebar {
 	width:400px;
-	background: #ADD8E6;
+	background: #eee;
 	position: fixed;
 	top:0;
 	left: 0;
 	height:100%;
-	border-right: 2px solid #888;
+	border-right: 8px solid #fff;
 }
 
 header h1 {
@@ -49,7 +49,7 @@ nav {
 	margin-left: -135px;
 	width: 150px;
 	border-radius: 0px;
-	background: #0f0;
+	background: #cff9ea;
 	transition: .3s all;
 }
 nav a {
