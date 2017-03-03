@@ -27,7 +27,8 @@ header h1 {
 }
 #hexagons {
 	margin-left: 300px;
-	word-wrap: hidden;
+	white-space: nowrap;
+	overflow: hidden;
 }
 
 #hexagons img {
