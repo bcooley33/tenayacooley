@@ -30,6 +30,7 @@ header h1 {
 	white-space: nowrap;
 	overflow: hidden;
 	margin-top: -125px;
+	margin-bottom: -125px;
 }
 
 #hexagons img {
