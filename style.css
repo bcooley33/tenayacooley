@@ -25,6 +25,9 @@ header h1 {
 	text-align: center;
 	font-size: 60px;
 }
+#hexagons {
+	margin-left: 300px;
+}
 
 #hexagons img {
 	width: 400px;
